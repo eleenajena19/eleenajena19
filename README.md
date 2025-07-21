@@ -94,15 +94,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EleenaJena19&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EleenaJena19&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EleenaJena19&show_icons=true&theme=tokyonight" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleenaJena19&layout=compact&theme=tokyonight" width="320" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EleenaJena19&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EleenaJena19&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
----
+
+
+
 
 ## 🌐 Connect With Me
 
